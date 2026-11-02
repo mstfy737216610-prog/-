@@ -1,0 +1,6 @@
+{
+  "name": "مرسال - Mirsal",
+  "description": "نظام محلي عربي متكامل لمراقبة حسابات التواصل الاجتماعي، فلترة المحتوى بالذكاء الاصطناعي، معالجة الوسائط، وإدارة وجدولة النشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
